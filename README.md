@@ -7,3 +7,7 @@ A neural network is given the classification task of distinguishing two simulati
 Here are some brief descriptions of what you can find in this repository
 
 - **nn-training-and-plotting.ipynb** : Jupyter notebook for running the training or reading in the training and then making plots.  Produces a simple root output TTree.
+- **fill_hists_for_unfolding2.c,h** : Root code for filling histograms for unfolding.
+- **unfold1.c** : Run basic unfolding.
+- **unfold_generator_syst.c** : Run unfolding with alternate response matrix and compare.
+  
