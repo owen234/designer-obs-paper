@@ -10,4 +10,5 @@ Here are some brief descriptions of what you can find in this repository
 - **fill_hists_for_unfolding2.c,h** : Root code for filling histograms for unfolding.
 - **unfold1.c** : Run basic unfolding.
 - **unfold_generator_syst.c** : Run unfolding with alternate response matrix and compare.
+  **toy-study-regression.ipynb** : Jupyter notebook for the toy regression study.
   
